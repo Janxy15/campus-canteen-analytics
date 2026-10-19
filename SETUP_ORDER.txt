@@ -1,0 +1,9 @@
+1. MySQL Workbench -> run database/schema.sql
+2. MySQL Workbench -> run database/seed.sql
+3. IntelliJ -> open backend
+4. Edit backend/src/main/resources/application.properties with your MySQL password
+5. Run CampusCanteenAnalyticsApplication
+6. Terminal -> cd frontend
+7. npm install
+8. npm run dev
+9. Open http://localhost:5173
